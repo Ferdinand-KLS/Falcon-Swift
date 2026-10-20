@@ -13,7 +13,7 @@ Six small RC aircraft I designed from scratch for 3D printing and foam board. Ea
 | **Camar** | Flying-boat style | 640 mm high wing, pusher motor on a pylon |
 | **Cessna profile** | Foam-board trainer | A4 template set |
 
-Falcon Swift, Vampire, Capung, Bintang and Camar share one design: conventional aileron, elevator and rudder control, so a standard 6-axis gyro board works without changing the mixing.
+Falcon Swift, Vampire, Capung, Bintang and Camar share the same control layout (aileron, elevator, rudder), so a standard 6-axis gyro board works without changing the mixing.
 
 ## Previews
 | | |
